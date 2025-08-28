@@ -9,9 +9,8 @@
 > 🚀 Expert in innovative IoT solutions design for Industry 4.0, passionate about hardware/software convergence for industrial automation, intelligent data processing (ML), and connectivity (MQTT).
 ---
 
-<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
 
-## 🛠️ Tech Stack & Tools
+
 
 ### 💻 Programming Languages
 <div align="left">
@@ -54,15 +53,6 @@
 
 ---
 
-## 🎯 Current Focus Areas
-
-- 🔌 **IoT Solutions**: ESP32, STM32, MQTT protocols
-- 🤖 **AI/ML Integration**: Machine Learning for industrial applications  
-- 🏭 **Industry 4.0**: Smart manufacturing and automation
-- 🚗 **Automotive Electronics**: CAN bus, OBD2 diagnostics
-- ☁️ **Cloud Deployment**: Production-ready applications
-
----
 
 ## 📊 GitHub Stats
 
@@ -71,3 +61,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hbib316&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+---
+
+<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
