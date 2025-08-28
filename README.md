@@ -11,6 +11,8 @@
 ---
 
 ### 💻 Programming Languages
+<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo" />
   <img width="12" />
@@ -25,9 +27,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="35" alt="matlab logo" />
 </div>
 
----
+<br clear="both">
 
-<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
+---
 
 ### 🔧 Frameworks & Libraries
 <img align="right" height="150" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Framework libraries animation" />
@@ -50,7 +52,9 @@
 <img align="right" height="150" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="IoT electronics animation" />
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/docs/images/esp32-devkitc-v4-front.png" height="35" alt="esp32 logo" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" height="35" alt="esp32 logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" height="35" alt="stm32 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="35" alt="raspberry pi logo" />
   <img width="12" />
