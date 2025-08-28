@@ -7,16 +7,6 @@
 📍 Kairouan, Tunisie
 
 > 🚀 Expert in innovative IoT solutions design for Industry 4.0, passionate about hardware/software convergence for industrial automation, intelligent data processing (ML), and connectivity (MQTT).
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hbib316&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hbib316&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ---
 
 <img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
@@ -71,3 +61,13 @@
 - 🏭 **Industry 4.0**: Smart manufacturing and automation
 - 🚗 **Automotive Electronics**: CAN bus, OBD2 diagnostics
 - ☁️ **Cloud Deployment**: Production-ready applications
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hbib316&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hbib316&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
