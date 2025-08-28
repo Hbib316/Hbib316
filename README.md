@@ -1,4 +1,4 @@
-# Hi 👋! My name is Habib Saadallah and I'm an Industrial Electronics Engineer, from Sousse, Tunisia
+\contactline{\href{https://github.com/Hbib316}{Hbib316}}{\href{https://www.linkedin.com/in/habib-saadallah-669664260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app}{habib-saadallah}}{\href{mailto:habibsaadallah2@gmail.com}{habibsaadallah2@gmail.com}}{\href{tel:+21622869802}{+216 22869802 | Kairouan , Tunisie}}} # Hi 👋! My name is Habib Saadallah and I'm an Industrial Electronics Engineer, from Sousse, Tunisia
 
 > 🚀 Expert in innovative IoT solutions design for Industry 4.0, passionate about hardware/software convergence for industrial automation, intelligent data processing (ML), and connectivity (MQTT).
 
@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="sqlite logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="35" alt="matlab logo" />
 </div>
@@ -85,7 +85,7 @@
 
 - 🤖 **AI Chatbot Development**: Built ML/DL specialized chatbot with Flask, achieving 60% memory optimization
 - 🔧 **Automotive Diagnostics**: Reduced diagnostic time by 30% using OBD2 protocols and specialized tools  
-- 📊 **Data Management**: Implemented MySQL databases for traceability and error code management
+- 📊 **Data Management**: Implemented SQLite databases for traceability and error code management
 - 🌐 **Full-Stack Development**: Created responsive web applications with REST APIs
 
 ---
@@ -111,9 +111,3 @@
 </div>
 
 ---
-
-### 💡 Fun Facts
-- 🎓 Currently studying Industrial Electronics Engineering at ENIS
-- 🌍 Based in beautiful Sousse, Tunisia
-- 📱 Contact: +216 22869802
-- 📧 Email: habibsaadallah2@gmail.com
