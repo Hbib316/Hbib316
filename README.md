@@ -47,7 +47,9 @@
 </div>
 
 <br clear="both">
+
 ---
+
 ### ⚡ Embedded Systems & IoT
 <img align="right" height="150" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="IoT electronics animation" />
 
