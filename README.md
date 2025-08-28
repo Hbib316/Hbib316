@@ -1,4 +1,4 @@
-# Hi 👋! My name is Habib Saadallah and I'm an Industrial Electronics Engineer, from Sousse, Tunisia
+# Hi 👋! My name is Habib Saadallah and I'm an Industrial Electronics Engineer
 
 [![GitHub](https://img.shields.io/badge/GitHub-Hbib316-181717?style=flat&logo=github)](https://github.com/Hbib316)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-habib--saadallah-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/habib-saadallah-669664260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
@@ -71,23 +71,3 @@
 - 🏭 **Industry 4.0**: Smart manufacturing and automation
 - 🚗 **Automotive Electronics**: CAN bus, OBD2 diagnostics
 - ☁️ **Cloud Deployment**: Production-ready applications
-
----
-
-## 📫 Let's Connect!
-
-<div align="left">
-  <a href="mailto:habibsaadallah2@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/habib-saadallah-669664260">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://github.com/Hbib316">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
-  </a>
-  <a href="tel:+21622869802">
-    <img src="https://img.shields.io/static/v1?message=Phone&logo=phone&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="phone logo" />
-  </a>
-</div>
-
