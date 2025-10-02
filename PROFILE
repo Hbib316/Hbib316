@@ -1,0 +1,249 @@
+# Hi there 👋, I'm Habib Saadallah
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Industrial+Electronics+Engineer;IoT+%26+Industry+4.0+Specialist;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-Hbib316-181717?style=for-the-badge&logo=github)](https://github.com/Hbib316)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-habib--saadallah-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/habib-saadallah-669664260)
+[![Email](https://img.shields.io/badge/Email-habibsaadallah2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:habibsaadallah2@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B216%2022869802-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+21622869802)
+
+📍 **Kairouan, Tunisia** | 🎓 **ENISo - Industrial Electronics Engineering**
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```python
+class HabibSaadallah:
+    def __init__(self):
+        self.role = "Industrial Electronics Engineer"
+        self.location = "Kairouan, Tunisia"
+        self.education = "ENISo - Industrial Control & Renewable Energies"
+        self.current_focus = ["Industry 4.0", "IoT Solutions", "AI/ML", "Predictive Maintenance"]
+        self.looking_for = "PFE Internship in Industry 4.0 & IoT"
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = HabibSaadallah()
+me.say_hi()
+```
+
+> 🔥 **Passionate about** the intersection of IoT, AI, and Industrial Automation  
+> 💡 **Expertise in** designing innovative solutions for Industry 4.0  
+> 🎯 **Currently seeking** a challenging PFE internship to launch my career
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab" />
+</div>
+
+### 🌐 Web Development
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite" />
+</div>
+
+### 🤖 AI & Machine Learning
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />
+</div>
+
+### ⚡ IoT & Embedded Systems
+<div align="left">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" height="40" alt="esp32" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" height="40" alt="stm32" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberry pi" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white" height="40" alt="mqtt" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino" />
+</div>
+
+### 🔧 Tools & Platforms
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" height="40" alt="render" />
+</div>
+
+### 🏭 Industrial Automation
+<div align="left">
+  <img src="https://img.shields.io/badge/TIA_Portal-009999?style=flat&logo=siemens&logoColor=white" height="40" alt="tia portal" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=flat&logo=labview&logoColor=black" height="40" alt="labview" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Proteus-1E5C8F?style=flat&logo=proteus&logoColor=white" height="40" alt="proteus" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white" height="40" alt="kicad" />
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+### 🔮 [Industrial Predictive Maintenance System](https://github.com/Hbib316/predictive-maintenance)
+<div align="left">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="status" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/IoT-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="esp32" />
+  <img src="https://img.shields.io/badge/ML-Random_Forest-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white" alt="ml" />
+</div>
+
+> AI-powered IoT solution for predictive maintenance in industrial environments
+
+**Key Features:**
+- 📡 Real-time multi-sensor data acquisition (ESP32)
+- 🧠 Machine Learning model (Random Forest) for failure prediction
+- 📊 FFT signal processing for anomaly detection
+- ☁️ Scalable cloud deployment with real-time dashboard
+- 📉 Significant reduction of unplanned downtime
+
+**Tech Stack:** `ESP32` `Python` `Machine Learning` `MQTT` `Flask` `Cloud Computing`
+
+---
+
+### 🤖 [AI Chatbot with Voice Recognition](https://github.com/Hbib316/ai-chatbot)
+<div align="left">
+  <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" alt="status" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="flask" />
+  <img src="https://img.shields.io/badge/AI-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="ml" />
+</div>
+
+> Intelligent chatbot with voice recognition and NLP capabilities
+
+**Key Features:**
+- 🎤 Voice recognition & text-to-speech
+- 🧠 Intent classification (20+ categories)
+- 🔐 Secure authentication system
+- 💾 SQLite database integration
+- 🌐 Responsive web interface
+
+**Links:** [🚀 Live Demo](your-chatbot-url) | [💻 Source Code](https://github.com/Hbib316/ai-chatbot)
+
+**Tech Stack:** `Python` `Flask` `Scikit-learn` `NLP` `SQLite` `HTML5/CSS3`
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hbib316&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hbib316&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hbib316&theme=tokyonight&hide_border=true" alt="streak stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hbib316&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+</div>
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 AI Full-Stack Developer | **KM Solutions**
+📅 *July - August 2025* | 📍 Kairouan, Tunisia
+
+- Designed and deployed AI chatbot with voice recognition
+- Developed ML classification model for 20+ intent categories
+- Implemented secure web interface with authentication
+- Managed cloud deployment on Render
+
+### 🔧 Automotive Electronics Technician | **Gharbi Trading International**
+📅 *June - August 2024* | 📍 Kairouan, Tunisia
+
+- Diagnosed electronic vehicle faults using OBD2 scanners
+- Repaired and maintained vehicle mechanical systems
+
+---
+
+## 🎓 Education
+
+**🏛️ École Nationale d'Ingénieurs de Sousse (ENISo)**  
+🎓 Engineering Degree in Industrial Electronics  
+📚 Specialization: Industrial Control & Renewable Energies  
+📅 2023 - 2026
+
+**🏛️ Institut Préparatoire de Kairouan**  
+📚 Preparatory Cycle in Mathematics-Physics  
+📅 2021 - 2023
+
+---
+
+## 🌟 What I'm Currently Working On
+
+```javascript
+const currentFocus = {
+    learning: ["Advanced Machine Learning", "Industry 4.0 Solutions", "Cloud Architecture"],
+    building: ["IoT Predictive Maintenance Platform", "Industrial Automation Projects"],
+    reading: ["Deep Learning for IoT", "Industrial AI Applications"],
+    goal: "Secure a challenging PFE internship in Industry 4.0 domain"
+};
+```
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+I'm always interested in collaborating on innovative projects in **IoT**, **Industry 4.0**, and **AI**!
+
+📧 **Email:** [habibsaadallah2@gmail.com](mailto:habibsaadallah2@gmail.com)  
+💼 **LinkedIn:** [habib-saadallah](https://www.linkedin.com/in/habib-saadallah-669664260)  
+📱 **Phone:** +216 22 869 802  
+
+**🚀 Currently seeking PFE Internship opportunities in Industry 4.0**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hbib316&style=flat-square&color=blue" alt="profile views" />
+  
+  ### ⭐ If you find my projects interesting, feel free to star them!
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
+</div>
