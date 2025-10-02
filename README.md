@@ -48,15 +48,6 @@ Intelligent chatbot with voice recognition and NLP capabilities. Features includ
 
 ---
 
-## Experience
-
-**AI Full-Stack Developer** | KM Solutions | Jul-Aug 2025  
-Designed and deployed AI chatbot with voice recognition, ML classification model, secure web interface, and cloud deployment.
-
-**Automotive Electronics Technician** | Gharbi Trading International | Jun-Aug 2024  
-Diagnosed electronic vehicle faults using OBD2 scanners and performed system maintenance.
-
----
 
 ## GitHub Stats
 
@@ -69,6 +60,6 @@ Diagnosed electronic vehicle faults using OBD2 scanners and performed system mai
 
 <div align="center">
 
-📧 habibsaadallah2@gmail.com | 📍 Kairouan, Tunisia | 📱 +216 22 869 802
+
 
 </div>
