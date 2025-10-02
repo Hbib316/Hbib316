@@ -11,7 +11,7 @@
 ---
 
 ### 💻 Programming Languages
-<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo" />
@@ -32,7 +32,7 @@
 ---
 
 ### 🔧 Frameworks & Libraries
-<img align="right" height="150" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Framework libraries animation" />
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35" alt="flask logo" />
@@ -51,7 +51,6 @@
 ---
 
 ### ⚡ Embedded Systems & IoT
-<img align="right" height="150" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="IoT electronics animation" />
 
 <div align="left">
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" height="35" alt="esp32 logo" />
