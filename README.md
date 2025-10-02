@@ -1,12 +1,12 @@
 # Hi 👋! My name is Habib Saadallah and I'm an Industrial Electronics Engineer
-[![GitHub](https://img.shields.io/badge/GitHub-Hbib316-181717?style=flat&logo=github)](https://github.com/Hbib316)
+[![CV](https://img.shields.io/badge/Download_CV-4285F4?style=flat&logo=googledrive&logoColor=white)](https://github.com/Hbib316/Hbib316/blob/main/cv_en.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-habib--saadallah-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/habib-saadallah-669664260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Email](https://img.shields.io/badge/Email-habibsaadallah2@gmail.com-D14836?style=flat&logo=gmail)](mailto:habibsaadallah2@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B216%2022869802-25D366?style=flat&logo=phone)](tel:+21622869802)
 
 📍 Kairouan, Tunisie
 
-> 🚀 Expert in innovative IoT solutions design for Industry 4.0, passionate about hardware/software convergence for industrial automation, intelligent data processing (ML), and connectivity (MQTT).
+Electronics engineering student specializing in industrial control, renewable energy, and AI applied to industry. Seeking a PFE internship to launch my professional career.
 
 ---
 
