@@ -18,36 +18,25 @@
 
 > **Expert in innovative IoT solutions for Industry 4.0** | Passionate about hardware/software convergence for industrial automation, intelligent data processing (ML), and connectivity (MQTT)
 
-```python
-class HabibSaadallah:
-    def __init__(self):
-        self.role = "Industrial Electronics Engineer"
-        self.education = "ENISo - Industrial Control & Renewable Energies"
-        self.specialization = ["Industry 4.0", "IoT", "AI/ML", "Industrial Automation"]
-        self.currently = "Seeking PFE Internship in Industry 4.0"
-        
-    def get_expertise(self):
-        return {
-            "IoT": ["ESP32", "STM32", "MQTT", "Sensor Networks"],
-            "AI_ML": ["Predictive Maintenance", "NLP", "Classification Models"],
-            "Industrial": ["TIA Portal", "PLC Programming", "SCADA", "LabVIEW"],
-            "Web_Dev": ["Python/Flask", "REST APIs", "Cloud Deployment"]
-        }
-```
+🎓 **Engineering Student** specializing in **Industrial Control & Renewable Energies** at ENISo  
+💡 **Core Expertise:** Industry 4.0, IoT Solutions, AI/ML Applications, Industrial Automation  
+🔧 **Technical Focus:** Predictive Maintenance, Smart Manufacturing, Embedded Systems  
+🎯 **Currently seeking:** PFE Internship in Industry 4.0 domain
 
 ---
 
 ## 💼 Professional Experience
 
-**🤖 AI Full-Stack Developer** | KM Solutions | *July - August 2025*
-- Designed AI chatbot with voice recognition using Python/Flask
-- Developed ML classification model for 20+ intent categories
-- Implemented secure web interface with SQLite database
-- Managed cloud deployment on Render
+**🤖 AI Full-Stack Developer** | KM Solutions, Kairouan | *July - August 2025*
+- Designed and deployed AI chatbot with voice recognition using Python/Flask
+- Developed ML classification model for 20+ intent categories with Scikit-learn
+- Implemented secure responsive web interface with authentication and SQLite database
+- Managed cloud deployment on Render platform
 
-**🔧 Automotive Electronics Technician** | Gharbi Trading International | *June - August 2024*
-- Diagnosed electronic vehicle faults using OBD2 scanners
+**🔧 Automotive Electronics Technician** | Gharbi Trading International, Kairouan | *June - August 2024*
+- Diagnosed and resolved electronic vehicle faults using OBD2 scanners
 - Repaired and maintained vehicle mechanical systems
+- Applied electronics troubleshooting techniques for automotive systems
 
 ---
 
@@ -140,29 +129,35 @@ class HabibSaadallah:
 ### 🔮 Industrial Predictive Maintenance System
 **AI-powered IoT solution for predictive maintenance in industrial environments**
 
-- 📡 Real-time multi-sensor data acquisition using ESP32
-- 🧠 Machine Learning model (Random Forest) for failure prediction
-- 📊 FFT signal processing for vibration analysis
+**Key Features:**
+- 📡 Real-time multi-sensor data acquisition using ESP32 microcontrollers
+- 🧠 Machine Learning model (Random Forest) for failure prediction and anomaly detection
+- 📊 FFT signal processing for advanced vibration analysis
 - ☁️ Scalable cloud deployment with real-time monitoring dashboard
-- 📉 Validated on industrial equipment with significant downtime reduction
+- 📉 Validated on industrial equipment with significant reduction of unplanned downtime
 
-**Tech Stack:** `ESP32` `Python` `Random Forest` `MQTT` `FFT Processing` `Cloud Computing`
+**Technologies:** ESP32 • Python • Random Forest • MQTT • FFT Processing • Cloud Computing
+
+**Impact:** Optimization of industrial maintenance processes, enabling proactive interventions and reducing operational costs
 
 ---
 
 ### 🤖 AI Chatbot with Voice Recognition
-**Intelligent conversational AI with voice capabilities**
+**Intelligent conversational AI with advanced voice capabilities**
 
-- 🎤 Voice recognition and text-to-speech synthesis
-- 🧠 ML-based intent classification (20+ categories using Scikit-learn)
-- 🔐 Secure authentication system
-- 💾 SQLite database for conversation history
-- 🌐 Responsive web interface (Flask + HTML5/CSS3)
-- ☁️ Cloud deployment on Render
+**Key Features:**
+- 🎤 Voice recognition and text-to-speech synthesis for natural interaction
+- 🧠 ML-based intent classification covering 20+ categories using Scikit-learn
+- 🔐 Secure authentication system with user management
+- 💾 SQLite database for conversation history and analytics
+- 🌐 Responsive web interface built with Flask, HTML5/CSS3
+- ☁️ Production deployment on Render cloud platform
 
 **Links:** 🚀 [Live Demo](#) | 💻 [Source Code](#)
 
-**Tech Stack:** `Python` `Flask` `Scikit-learn` `NLP` `SQLite` `HTML5/CSS3` `Render`
+**Technologies:** Python • Flask • Scikit-learn • NLP • SQLite • HTML5/CSS3 • Render
+
+**Impact:** Deployed solution serving real users with automated customer support capabilities
 
 ---
 
@@ -195,28 +190,21 @@ class HabibSaadallah:
 
 ---
 
-## 🌟 What I'm Currently Learning
+## 🌟 Current Focus & Learning Goals
 
-```javascript
-const currentGoals = {
-    learning: [
-        "Advanced Machine Learning Techniques",
-        "Industrial IoT Architecture",
-        "Cloud-Native Applications",
-        "Edge Computing for Industry 4.0"
-    ],
-    building: [
-        "Smart Factory Monitoring System",
-        "AI-Powered Quality Control Solution",
-        "Energy Management IoT Platform"
-    ],
-    certifications: [
-        "Industry 4.0 Specialist",
-        "IoT Solution Architect"
-    ],
-    goal: "Secure a challenging PFE internship to launch my career in Industry 4.0! 🚀"
-};
-```
+**🔍 Learning & Exploring:**
+- Advanced Machine Learning techniques for industrial applications
+- Industrial IoT architecture and security best practices
+- Cloud-native application development
+- Edge Computing solutions for Industry 4.0
+
+**🛠️ Building:**
+- Smart Factory Monitoring System with real-time analytics
+- AI-Powered Quality Control solution for manufacturing
+- Energy Management IoT Platform for renewable energy optimization
+
+**🎯 Career Goal:**
+Seeking a challenging PFE internship to contribute to innovative Industry 4.0 projects and launch my professional career in industrial automation and IoT solutions! 🚀
 
 ---
 
