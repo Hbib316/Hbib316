@@ -16,7 +16,7 @@
 
 ### 👋 About Me  
 
-Future Industrial Electronics Engineer | Specialist in Industrial Control and Renewable Energy | Passionate about AI and IoT  
+Future **Industrial Electronics Engineer** | Specialist in **Industrial Control** and **Renewable Energy** | Passionate about **AI** and **IoT**  
 
 ---
 
@@ -24,78 +24,79 @@ Future Industrial Electronics Engineer | Specialist in Industrial Control and Re
 
 #### 💻 Code & Tools  
 <div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/MATLAB-FF8200?style=for-the-badge&logo=mathworks&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-FF8200?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </div>
 
 #### ⚡ Embedded & IoT  
 <div align="center">
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
 #### 🧰 CAD & Automation  
 <div align="center">
-<img src="https://img.shields.io/badge/TIA%20Portal-0064A0?style=for-the-badge&logo=siemens&logoColor=white" />
-<img src="https://img.shields.io/badge/LabVIEW-FFDB33?style=for-the-badge&logo=ni&logoColor=black" />
-<img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
-<img src="https://img.shields.io/badge/Simulink-8ACA25?style=for-the-badge&logo=mathworks&logoColor=white" />
-<img src="https://img.shields.io/badge/Proteus-2B579A?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/PLC%20Programming-0064A0?style=for-the-badge&logo=siemens&logoColor=white" />
+  <img src="https://img.shields.io/badge/TIA%20Portal-0064A0?style=for-the-badge&logo=siemens&logoColor=white" />
+  <img src="https://img.shields.io/badge/LabVIEW-FFDB33?style=for-the-badge&logo=ni&logoColor=black" />
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/Simulink-8ACA25?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proteus-2B579A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/PLC%20Programming-0064A0?style=for-the-badge&logo=siemens&logoColor=white" />
 </div>
 
 ---
 
 ### 🚀 Projects  
 <div align="center">
-<table>
-<tr>
+  <table>
+    <tr>
 
-<!-- Industrial Chatbot -->
-<td align="center" width="250">
-  <h4>🤖 Industrial Chatbot</h4>
-  <p>Voice & intent-based assistant for factory automation.</p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/>
-  <br><br>
-  <a href="https://github.com/Hbib316/AI-Voice-Chatbot.git" target="_blank">
-    <img src="https://img.shields.io/badge/View_Project-2a5298?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</td>
+      <!-- Industrial Chatbot -->
+      <td align="center" width="250">
+        <h4>🤖 Industrial Chatbot</h4>
+        <p>Voice & intent-based assistant for factory automation.</p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/>
+        <br><br>
+        <a href="https://github.com/Hbib316/AI-Voice-Chatbot.git" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-2a5298?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
 
-<!-- Predictive Maintenance -->
-<td align="center" width="250">
-  <h4>🏭 Predictive Maintenance</h4>
-  <p>ESP32-based sensor network with ML fault prediction.</p>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <br><br>
-  <a href="https://github.com/Hbib316/diagnostic_machine.git" target="_blank">
-    <img src="https://img.shields.io/badge/View_Project-2a5298?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</td>
-</tr>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Raouf-Braham&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Raouf-Braham&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+      <!-- Predictive Maintenance -->
+      <td align="center" width="250">
+        <h4>🏭 Predictive Maintenance</h4>
+        <p>ESP32-based sensor network with ML fault prediction.</p>
+        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <br><br>
+        <a href="https://github.com/Hbib316/diagnostic_machine.git" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-2a5298?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-</table>
+---
+
+### ⚡ Stats  
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Hbib316&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Hbib316&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Hbib316&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
 </div>
