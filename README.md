@@ -88,36 +88,14 @@ Future Industrial Electronics Engineer | Specialist in Industrial Control and Re
   </a>
 </td>
 </tr>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Raouf-Braham&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Raouf-Braham&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
 </table>
-</div>
-
----
-
-### 🧪 Trying & Learning  
-
-<div align="center">
-
-| Topic | Description |
-|-------|--------------|
-| 🧠 **TinyML** | Deploying ML models on STM32 and ESP32 for edge AI |
-| ☁️ **IoT Cloud** | MQTT + Node-RED + InfluxDB + Grafana integration |
-| ⚙️ **ROS & Automation** | Exploring Robot Operating System for industrial control |
-| 💬 **AI Assistants** | Building smart HMI/voice-based control systems |
-
-</div>
-
----
-
-### 🏆 Activity & Achievements  
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hbib316&theme=tokyonight&no-frame=true&margin-w=10" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hbib316&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" />
 </div>
