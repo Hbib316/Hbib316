@@ -10,7 +10,6 @@
 [![Mail](https://img.shields.io/badge/habibsaadallah2@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:habibsaadallah2@gmail.com)
 [![Phone](https://img.shields.io/badge/+216%2022869802-25D366?style=flat-square&logo=whatsapp)](tel:+21622869802)
 
-📍 Kairouan, Tunisia
 </div>
 
 ---
