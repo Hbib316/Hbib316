@@ -17,30 +17,53 @@
 
 ### ⚙️ Skills Overview  
 
-#### Code & Tools  
+<style>
+.card {
+  display: inline-block;
+  background-color: #0d1117;
+  border: 1px solid #30363d;
+  border-radius: 10px;
+  padding: 10px 15px;
+  margin: 6px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.2);
+}
+.card img {
+  width: 40px;
+  vertical-align: middle;
+  margin: 5px;
+}
+</style>
+
+#### 💻 Code & Tools  
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" />
+  <div class="card">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+  </div>
 </div>
 
-#### Embedded & IoT  
+#### ⚡ Embedded & IoT  
 <div align="center">
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry-Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" />
+  <div class="card">
+    <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+    <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  </div>
 </div>
 
-#### CAD & Automation  
+#### 🧰 CAD & Automation  
 <div align="center">
-  <img src="https://img.shields.io/badge/TIA%20Portal-0064A0?style=flat-square&logo=siemens&logoColor=white" />
-  <img src="https://img.shields.io/badge/LabVIEW-FFDB33?style=flat-square&logo=ni&logoColor=black" />
-  <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white" />
-  <img src="https://img.shields.io/badge/Simulink-8ACA25?style=flat-square&logo=mathworks&logoColor=white" />
+  <div class="card">
+    <img src="https://img.shields.io/badge/TIA%20Portal-0064A0?style=for-the-badge&logo=siemens&logoColor=white" />
+    <img src="https://img.shields.io/badge/LabVIEW-FFDB33?style=for-the-badge&logo=ni&logoColor=black" />
+    <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
+    <img src="https://img.shields.io/badge/Simulink-8ACA25?style=for-the-badge&logo=mathworks&logoColor=white" />
+  </div>
 </div>
 
 ---
