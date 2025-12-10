@@ -94,6 +94,20 @@ Industrial Electronics Engineering Student at **ENISO** | Specialist in **Indust
 </td>
 
 </tr>
+
+<!-- Predictive Maintenance -->
+<td align="center" width="250">
+  <h4>🏭 Predictive Maintenance</h4>
+  <p>ESP32-based sensor network with ML fault prediction.</p>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <br><br>
+  <a href="https://github.com/Hbib316/diagnostic_machine.git" target="_blank">
+    <img src="https://img.shields.io/badge/View_Project-2a5298?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</td>
+
 <tr>
 
 <!-- MMC Converter -->
