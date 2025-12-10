@@ -5,8 +5,7 @@
 
 <div align="center">
 
-[![CV(en)](https://img.shields.io/badge/Download_CV-2a5298?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1zEf_IqK5EOqDLJiH5i-f5OO5CTcqYNkJ)
-[![CV(fr)](https://img.shields.io/badge/Download_CV-2a5298?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1zEf_IqK5EOqDLJiH5i-f5OO5CTcqYNkJ)
+[![CV](https://img.shields.io/badge/Download_CV-2a5298?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1zEf_IqK5EOqDLJiH5i-f5OO5CTcqYNkJ)
 [![LinkedIn](https://img.shields.io/badge/habib--saadallah-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-saadallah-669664260)
 [![Mail](https://img.shields.io/badge/habibsaadallah-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:habibsaadallah@gmail.com)
 [![Phone](https://img.shields.io/badge/+216%2022%20869%20802-25D366?style=flat-square&logo=whatsapp)](tel:+21622869802)
