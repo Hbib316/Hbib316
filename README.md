@@ -121,9 +121,6 @@ Industrial Electronics Engineering Student at **ENISO** | Specialist in **Indust
     <img src="https://img.shields.io/badge/View_Project-2a5298?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </td>
-</tr>
-
-<tr>
 <!-- Motor Control -->
 <td align="center" width="250">
   <h4>🏭 Multi-mode Motor Control</h4>
