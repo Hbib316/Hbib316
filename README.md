@@ -5,11 +5,12 @@
 
 <div align="center">
 
-[![CV](https://img.shields.io/badge/Download_CV-2a5298?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1PnfB4yIuwOfIFQPrhTO3yh2T78YQqohu/view?usp=drive_link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2a5298?style=flat-square&logo=github&logoColor=white)](https://hbib316.github.io/)
+[![CV(en)](https://img.shields.io/badge/Download_CV-2a5298?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1zEf_IqK5EOqDLJiH5i-f5OO5CTcqYNkJ)
+[![CV(fr)](https://img.shields.io/badge/Download_CV-2a5298?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1zEf_IqK5EOqDLJiH5i-f5OO5CTcqYNkJ)
 [![LinkedIn](https://img.shields.io/badge/habib--saadallah-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-saadallah-669664260)
 [![Mail](https://img.shields.io/badge/habibsaadallah-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:habibsaadallah@gmail.com)
 [![Phone](https://img.shields.io/badge/+216%2022%20869%20802-25D366?style=flat-square&logo=whatsapp)](tel:+21622869802)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2a5298?style=flat-square&logo=github&logoColor=white)](https://hbib316.github.io/)
 
 </div>
 
@@ -91,9 +92,6 @@ Industrial Electronics Engineering Student at **ENISO** | Specialist in **Indust
     <img src="https://img.shields.io/badge/View_Project-2a5298?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </td>
-</tr>
-
-<tr>
 <!-- Predictive Maintenance -->
 <td align="center" width="250">
   <h4>🏭 Predictive Maintenance</h4>
@@ -106,6 +104,10 @@ Industrial Electronics Engineering Student at **ENISO** | Specialist in **Indust
     <img src="https://img.shields.io/badge/View_Project-2a5298?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </td>
+
+</tr>
+
+<tr>
 
 <!-- MMC Converter -->
 <td align="center" width="250">
