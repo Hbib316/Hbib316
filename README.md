@@ -65,7 +65,6 @@ Industrial Electronics Engineering Student at **ENISO** | Specialist in **Indust
 
 <table>
 <tr>
-
 <!-- EdgeVision -->
 <td align="center" width="250">
   <h4>📹 EdgeVision</h4>
@@ -92,9 +91,9 @@ Industrial Electronics Engineering Student at **ENISO** | Specialist in **Indust
     <img src="https://img.shields.io/badge/View_Project-2a5298?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </td>
-
 </tr>
 
+<tr>
 <!-- Predictive Maintenance -->
 <td align="center" width="250">
   <h4>🏭 Predictive Maintenance</h4>
@@ -108,8 +107,6 @@ Industrial Electronics Engineering Student at **ENISO** | Specialist in **Indust
   </a>
 </td>
 
-<tr>
-
 <!-- MMC Converter -->
 <td align="center" width="250">
   <h4>⚡ MMC Converter</h4>
@@ -122,7 +119,9 @@ Industrial Electronics Engineering Student at **ENISO** | Specialist in **Indust
     <img src="https://img.shields.io/badge/View_Project-2a5298?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </td>
+</tr>
 
+<tr>
 <!-- Motor Control -->
 <td align="center" width="250">
   <h4>🏭 Multi-mode Motor Control</h4>
@@ -135,7 +134,6 @@ Industrial Electronics Engineering Student at **ENISO** | Specialist in **Indust
     <img src="https://img.shields.io/badge/View_Project-2a5298?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </td>
-
 </tr>
 </table>
 </div>
