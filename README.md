@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/habib--saadallah-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-saadallah-669664260)
 [![Mail](https://img.shields.io/badge/habibsaadallah-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:habibsaadallah@gmail.com)
 [![Phone](https://img.shields.io/badge/+216%2022%20869%20802-25D366?style=flat-square&logo=whatsapp)](tel:+21622869802)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2a5298?style=flat-square&logo=github&logoColor=white)](https://hbib316.github.io/)
 
 </div>
 
